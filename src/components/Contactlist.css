@@ -1,0 +1,28 @@
+
+.contactlist
+{
+    padding: 5px;
+
+}
+.contactlistheading{
+    text-align: center;
+}
+.content{
+ padding: 25px;
+border-bottom:0.5px rgb(99, 87, 87) solid;
+background-color: rgba(0,0,0,0,0.5);
+border-radius: 1%;
+font-size:medium;
+margin: 2px;
+}
+.ca_name{
+    font-size:large; 
+    font-weight: 600;  
+    padding:1% 0 ;
+}
+.ca_email{
+padding:1% 0 ; 
+}
+.ca_button{
+         float: right;
+}

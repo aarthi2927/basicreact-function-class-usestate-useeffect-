@@ -1,0 +1,12 @@
+.head{
+    text-align: center;
+    font-size: larger;
+    font-weight: 400;
+    font-family:'Courier New', Courier, monospace;
+    border:0.5px rgb(99, 87, 87) solid;
+background-color: rgba(0,0,0,0,0.5);
+border-radius: 1%;
+}
+.headcontent{
+    padding: 2.5%;
+}

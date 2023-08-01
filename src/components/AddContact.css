@@ -1,0 +1,47 @@
+.addcontactmain{
+    padding: 2%;
+    }
+.addcontactform{
+    padding: 1.5%;
+}
+.ac_form_name{
+    padding: 5.5px;
+    margin-top:1% ;
+}
+
+.ac_form_name input{
+width: 80%;
+padding: 7px;
+border-radius:5px;
+margin-top:1% ;
+font-size: medium;
+border:1px rgba(91, 90, 90, 0.64) solid;
+}
+.ac_form_email{
+    padding: 5.5px;
+    margin-top:1% ;
+}
+.ac_form_email input{
+    width: 80%;
+    padding: 7px;
+    border-radius:5px; 
+    margin-top:1% ;
+    font-size: medium;
+    border:1px rgba(91, 90, 90, 0.64) solid;
+}
+.ac_form_button{
+    padding: 7px;
+    border-radius:5px; 
+    margin-top:1% ;
+    font-size: medium;
+    background-color: dodgerblue;
+    border:1px rgba(91, 90, 90, 0.64) solid;
+    width: 9%;
+    height: 5%;
+    color: white;
+}
+.ac_form_button:hover{
+      background-color: white;
+    border:1px dodgerblue solid;
+    color:rgba(91, 90, 90, 0.64);
+ }
